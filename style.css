@@ -1,0 +1,49 @@
+body{
+  width:95vw;
+  margin : auto;
+
+}
+
+div{
+  box-sizing: border-box;
+}
+
+.content{
+
+}
+.header img{
+  width : 95vw;
+}
+
+.content h1{
+  text-align: center;
+  font-size: 26px;
+  font-family: fantasy;
+  background-color: #333333;
+  color : #fff;
+  margin:0px;
+  padding: 10px;
+}
+.content p{
+  margin:0px;
+  padding: 0px;
+  font-family:sans-serif;
+  background-color: #e6e6e6;
+}
+
+.col{
+  padding: 5px;
+}
+.col-row-three{
+  float: right;
+  width : 33%;
+  padding : 5px;
+}
+.col-row-two{
+  float: right;
+  width : 50%;
+  padding : 5px;
+}
+.col-row-null{
+  clear : both;
+}
